@@ -1,0 +1,31 @@
+{
+	"name": "Vertical limit",
+	"description": "Powerful but expensive drill",
+	"type": "Drill",
+	"size": 3,
+	"health": 1500,
+	"tier": 7,
+	"drillTime": 80,
+	"rotateSpeed": 8,
+	"updateEffect": "pulverizeRed"
+	"drillEffect": "healWaveMend"
+	"updateEffect Chance": 0.06
+	"consumes": {
+		"power": 2.8
+		"liquid": {
+			"liquid": "cryofluid",
+			"amount": 0.2,
+			"optional": true,
+			"booster": true
+		}
+	},
+	"requirements": [
+		{ "item": "thorium", "amount": 100 },
+		{ "item": "plastanium", "amount": 200 },
+		{ "item": "Olivine", "amount": 189 },
+		{ "item": "titanium", "amount": 200 },
+     { "item": "Hydrogen", "amount": 200 },
+	],
+	"category": "production"
+	"research": "Hydrogen-accumulator"
+}
