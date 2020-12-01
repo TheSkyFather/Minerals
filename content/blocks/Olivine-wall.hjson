@@ -1,0 +1,10 @@
+name:"Olivine wall"
+description:"A sturdy protective unit."
+type:Wall
+health:893
+size:1
+requirements:[
+Olivine/0.20
+]
+research:"Olivine-farm" 
+category:defense
