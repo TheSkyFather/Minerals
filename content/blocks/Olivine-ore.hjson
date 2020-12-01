@@ -1,4 +1,0 @@
-type:"OreBlock"
-name:"Olivine"
-itemDrop:"Olivine" 
-oreDefault:false
