@@ -1,0 +1,23 @@
+type:GenericSmelter
+name:"Scrap crusher"
+description:"Floating scrap metal in slag."
+outputLiquid:slag/7
+hasLiquids:true
+liquidCapacity:15
+size:2
+hasPower:true
+hasItems:true
+craftTime:35
+updateEffect:steam
+itemCapacity:15
+consumes:{
+power:0.5
+items:{items:[
+scrap/3
+]}}
+requirements:[
+copper/0
+lead/0
+]
+category:crafting
+research:router

@@ -1,0 +1,11 @@
+name:"[Green]Huge Olivine wall"
+description:"A huge protective unit. Suitable for long-term protection of the core and other mechanisms."
+type:Wall
+health:4997
+size:4
+requirements:[
+Olivine/6
+titanium/10
+thorium/10
+]
+category:defense

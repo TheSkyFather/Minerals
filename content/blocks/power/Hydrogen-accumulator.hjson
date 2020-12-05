@@ -1,0 +1,16 @@
+name:"Hydrogen accumulator"
+type:"Battery"
+size: 3
+description:"A capacious lead-olivine battery."
+hasPower:true
+buildCostMultiplier:0.675
+consumes:{
+powerBuffered: 180000
+}
+category:"power"
+requirements:[
+lead/20
+Olivine/20
+thorium/10
+]
+research: Olivine-farm

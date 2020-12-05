@@ -1,0 +1,29 @@
+{
+name: "Vertical limit",
+description: "Powerful but expensive drill",
+type: "Drill",
+size: 3,
+health: 1500,
+tier: 10,
+drillTime: 80,
+rotateSpeed: 6,
+updateEffect: "pulverizeRed"
+drillEffect: "healWaveMend"
+updateEffectChance: 0.06
+consumes:{
+power:0.5
+liquid: cryofluid/0.5
+}
+optional: true,
+booster: true
+requirements:[
+Olivine/25
+thorium/150
+titanium/20
+Hydrogen/150
+metaglass/20
+phase-fabric/10
+]
+category: production
+research: Hydrogen-accumulator
+}

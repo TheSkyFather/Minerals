@@ -1,0 +1,13 @@
+type: SolarGenerator
+name: Olivine solar panel
+description: Создаёт энергию от солнца
+size: 1
+health: 51
+powerProduction: 0.65
+requirements: [
+Monocrystal/3
+Resestive-element/3
+Olivine/51
+]
+category: power
+research: solar-panel

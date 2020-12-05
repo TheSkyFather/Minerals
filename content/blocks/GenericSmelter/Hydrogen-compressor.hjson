@@ -1,0 +1,28 @@
+{
+type: GenericCrafter,
+name: "Hydrogen compressor",
+description: "It produces solid hydrogen.",
+outputItem: Hydrogen/2
+size: 3,
+hasPower: true,
+hasLiquid: true,
+liquidCapacity: 19,
+hasItems: true,
+itemCapacity: 19,
+craftTime: 50,
+updateEffect: smeltsmoke
+consumes:{
+liquid:water/0.5
+power:0.5
+items:{items:[
+Olivine/3
+]}},
+requirements:[
+Olivine/25
+thorium/25
+],
+category: crafting
+research: "Olivine-farm",
+idleSound: respawning
+idleSoundVolume: 0.5
+}

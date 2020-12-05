@@ -1,0 +1,4 @@
+type:"OreBlock"
+name:"Olivine-Ore"
+itemDrop:"Olivine" 
+oreDefault:true

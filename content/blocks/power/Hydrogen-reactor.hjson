@@ -1,0 +1,27 @@
+type: NuclearReactor
+name: "Hydrogen reactor"
+description: "The simplest Hydrogen reactor. [red]VERY STRONGLY EXPLODES IF IT IS NOT ENOUGH CRYOFLUID"
+size: 3
+hasPower: true
+hasItems: true
+explosionDamage: 1000
+explosionRadius: 50
+heating: 0.09
+itemCapacity: 30
+hasLiquids: true
+liquidCapacity: 20
+itemDuration: 180
+powerProduction: 135
+consumes: {
+liquid: cryofluid/0.5
+items:{
+items:[
+Hydrogen/3
+]}}, 
+requirements: [
+Olivine/150
+Hydrogen/70
+thorium/90
+]
+category: power
+research: Hydrogen-accumulator
