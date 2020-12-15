@@ -16,11 +16,11 @@ consumes: {
 liquid: cryofluid/0.5
 items:{
 items:[
-Hydrogen/3
+hydrogen/3
 ]}}, 
 requirements: [
-Olivine/150
-Hydrogen/70
+olivine/150
+hydrogen/70
 thorium/90
 ]
 category: power

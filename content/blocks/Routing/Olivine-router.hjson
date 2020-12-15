@@ -2,12 +2,11 @@
 type: "router"
 name: "Olivine router" 
 description: "Green router)..."
-itemCapacity: 10
 research: "router"
 health: 79
 size: 1
 category: "distribution" 
 requirements:[
-Olivine/10
+olivine/10
 ]
 } 

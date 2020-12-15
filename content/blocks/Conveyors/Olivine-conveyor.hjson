@@ -4,7 +4,7 @@
  "description": "Just a fast conveyor belt",
  "health": 1, 
  "requirements": [
-  {"item": "Olivine", "amount": 1}
+  {"item": "olivine", "amount": 1}
   {"item": "lead", "amount": 2}
  ],
  "speed": 0.19,

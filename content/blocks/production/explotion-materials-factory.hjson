@@ -1,6 +1,4 @@
-type:GenericSmelter
-name:"Explosive materials factory"
-description:"Combines gunpowder and pyrothite To create an explosive mixture."
+type:GenericCrafter
 outputItem:blast-compound/3
 size:3
 hasPower:true
@@ -12,7 +10,7 @@ consumes:{
 power:0.5
 items:{items:[
 Gunpowder/3
-pyratite/3
+pyratite/2
 ]}}
 requirements:[
 Gunpowder/30
@@ -20,4 +18,4 @@ pyratite/25
 lead/25
 ]
 category:crafting
-research:Hydrogen-compressor
+research:hydrogen-compressor

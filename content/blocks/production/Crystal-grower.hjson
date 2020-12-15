@@ -1,0 +1,24 @@
+type:GenericCrafter
+name:"Crystal plant"
+description:"Allows you to grow crystals based on based on based on olivine, necessary for the manufacture of solar panels. Tagging: Growing monocrystals is a complex and very long-term affair."
+outputItem:monocrystal/4
+size:3
+hasPower:true
+hasItems:true
+craftTime:160
+updateEffect:steam
+itemCapacity:10
+consumes:{
+power:1
+items:{items:[
+olivine/1
+silicon/2
+copper/2
+]}}
+requirements:[
+copper/30
+lead/25
+olivine/19
+]
+category:crafting
+research:explotion-materials-factory

@@ -1,5 +1,5 @@
 type:GenericSmelter
-name:"Gunpowder factory"
+name:"Gunpowder plant"
 description:"It connects sand with pure coal and silicon.\n Produces gunpowder."
 outputItem:Gunpowder/3
 size:3
@@ -21,4 +21,4 @@ lead/25
 sand/30
 ]
 category:crafting
-research:Explotion-materials-factory
+research:explotion-materials-factory

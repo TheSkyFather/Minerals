@@ -1,6 +1,4 @@
 type:material
-name: "Hydrogen"
-description: "Allows you to create objects out of solid hydrogen..."
 color: "4a62ff"
 radioactivity: 0.0
 explosiveness:0.0

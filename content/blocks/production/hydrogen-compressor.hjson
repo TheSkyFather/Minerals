@@ -1,0 +1,24 @@
+{
+type: GenericSmelter
+outputItem: hydrogen/3
+size: 2,
+hasPower: true,
+hasLiquid: true,
+liquidCapacity: 19,
+hasItems: true,
+itemCapacity: 12,
+craftTime: 60,
+updateEffect: smeltsmoke
+consumes:{
+liquid:water/0.5
+power:0.5
+},
+requirements:[
+olivine/25
+thorium/25
+],
+category: crafting
+research: olivine-combine
+idleSound: respawning
+idleSoundVolume: 0.5
+}

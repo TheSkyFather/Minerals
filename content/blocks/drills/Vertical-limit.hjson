@@ -5,7 +5,7 @@ type: "Drill",
 size: 3,
 health: 1500,
 tier: 10,
-drillTime: 80,
+drillTime: 76,
 rotateSpeed: 6,
 updateEffect: "pulverizeRed"
 drillEffect: "healWaveMend"
@@ -17,10 +17,10 @@ liquid: cryofluid/0.5
 optional: true,
 booster: true
 requirements:[
-Olivine/25
+olivine/25
 thorium/150
 titanium/20
-Hydrogen/150
+hydrogen/150
 metaglass/20
 phase-fabric/10
 ]

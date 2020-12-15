@@ -1,0 +1,14 @@
+name: Electrum Vault
+description: Shocking way of storing items.
+type: StorageBlock
+itemCapacity: 4500
+hasItems: true
+health: 2000
+size: 3
+requirements: [
+titanium/60
+thorium/40
+olivine/100
+]
+category: effect
+research: vault
