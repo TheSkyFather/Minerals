@@ -1,10 +1,8 @@
-name: Olivine wall
-description:"A sturdy protective block."
 type:Wall
 health:671
 size:1
 requirements:[
 olivine/25
 ]
-research: olivine-combine 
+research: olivine-farm 
 category:defense

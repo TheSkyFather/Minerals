@@ -1,6 +1,7 @@
 displayName:"Minerals"
 name:"mineralmod"
-description:"[#463963]Explore the mysteries of crystals and minerals." 
-author:"[green]Sky[white]Father"
+description:"[#463963]Explore minerals and mechanisms." 
+author:"[white]Sky[green]Father"
 version:"0.8"
 minGameVersion: 105
+dependencies:[]

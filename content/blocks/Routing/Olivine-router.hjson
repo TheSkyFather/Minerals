@@ -1,12 +1,8 @@
-{
-type: "router"
-name: "Olivine router" 
-description: "Green router)..."
-research: "router"
+type: router
+research: router
 health: 79
 size: 1
-category: "distribution" 
+category: distribution
 requirements:[
 olivine/10
 ]
-} 

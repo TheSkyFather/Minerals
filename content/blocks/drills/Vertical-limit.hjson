@@ -1,6 +1,4 @@
 {
-name: "Vertical limit",
-description: "Powerful but expensive drill",
 type: "Drill",
 size: 3,
 health: 1500,
@@ -25,5 +23,5 @@ metaglass/20
 phase-fabric/10
 ]
 category: production
-research: Hydrogen-accumulator
+research: hydrogen-accumulator
 }

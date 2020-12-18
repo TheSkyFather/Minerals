@@ -1,0 +1,12 @@
+type: liquidRouter
+health :1700
+size: 3
+requirements:[
+metaglass/15
+olivine/20
+titanium/25
+]
+category: liquid
+hasLiquids: true
+liquidCapacity: 2500
+research: router

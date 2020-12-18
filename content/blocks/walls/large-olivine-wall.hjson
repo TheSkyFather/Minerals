@@ -1,5 +1,3 @@
-name:"[green]The Great Olivine Wall"
-description:"A good protective block, useful for protecting the core and other buildings."
 type:Wall
 health:1467
 size:2

@@ -1,19 +1,17 @@
-type:GenericCrafter
-name:"Plant of resistive elements."
-description:"Produces the resistive eleleets needed to create solar panels."
-outputItem:Resestive-element/2
+type:GenericSmelter
+outputItem:resestive-element/2
 size:3
 hasPower:true
 hasItems:true
 craftTime:150
-updateEffect:smeltsmoke
 itemCapacity:32
+updateEffect: none
+craftEffect: none
 consumes:{
-liquid:Liquid-plastic/0.5
 items:{items:[
-copper/30
-sand/30
-silicon/30
+copper/15
+sand/15
+silicon/15
 ]}}
 requirements:[
 copper/30

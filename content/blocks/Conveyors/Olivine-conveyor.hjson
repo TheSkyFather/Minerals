@@ -1,13 +1,9 @@
-{
- "type": "Conveyor",
- "name": "Speed conveyor", 
- "description": "Just a fast conveyor belt",
- "health": 1, 
- "requirements": [
-  {"item": "olivine", "amount": 1}
-  {"item": "lead", "amount": 2}
+ type: Conveyor
+ health: 69
+requirements:[
+olivine/2
+lead/2
  ],
- "speed": 0.19,
- "research": "titanium-conveyor",
- "category": "distribution"
-}
+ speed: 0.19,
+ research: titanium-conveyor
+ category: distribution

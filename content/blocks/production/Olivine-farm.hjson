@@ -1,28 +1,26 @@
-{
-type: "GenericCrafter",
-	name: "Olivine farm",
-description: "Combines water, titanium and Thorium to grow olivine.",
-outputItem:Olivine/2
-size: 3
+type: GenericSmelter
+outputItem:olivine/3
+size: 2
 hasPower: true,
-hasLiquids: false,
+hasLiquids: true,
 hasItems: true,
 itemCapacity: 10,
-craftTime: 55,
-updateEffect: "steam",
+liquidCapacity:10
+craftTime: 50,
+updateEffect: steam
 consumes:{
-power:0.5
+   liquid:cryofluid/0.1
+   power:0.5 
 items:{items:[
-sand/35
+   metaglass/2
 ]}},
 requirements:[
-copper/150
-titanium/100
-thorium/51
-lead/18
+   copper/150 
+   titanium/100
+   lead/18
 ]
-	category: "crafting",
-	research: "router",
-	idleSound: "respawning",
-	idleSoundVolume: 0.5
-}
+category: crafting
+research: router
+buildCostMultiplier: 10
+idleSound: respawning
+idleSoundVolume: 0.5

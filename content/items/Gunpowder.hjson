@@ -1,6 +1,4 @@
 type:material
-name: "Gunpowder"
-description: "[Red]A highly flammable component designed to create an explosive mixture."
 color: "#696363"
 radioactivity: 0.0
 explosiveness:1.0

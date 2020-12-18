@@ -1,5 +1,3 @@
-name:"Liquid plastic"
-description:"Side component"
 temperature:0.9
 flammability: 0
 heatCapacity:0.8

@@ -1,6 +1,4 @@
 type:GenericCrafter
-name:"Crystal plant"
-description:"Allows you to grow crystals based on based on based on olivine, necessary for the manufacture of solar panels. Tagging: Growing monocrystals is a complex and very long-term affair."
 outputItem:monocrystal/4
 size:3
 hasPower:true

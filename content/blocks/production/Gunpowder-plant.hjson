@@ -1,7 +1,5 @@
 type:GenericSmelter
-name:"Gunpowder plant"
-description:"It connects sand with pure coal and silicon.\n Produces gunpowder."
-outputItem:Gunpowder/3
+outputItem:gunpowder/3
 size:3
 hasPower:true
 hasItems:true

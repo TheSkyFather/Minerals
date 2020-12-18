@@ -1,6 +1,4 @@
 type: NuclearReactor
-name: "Hydrogen reactor"
-description: "The simplest Hydrogen reactor. [red]VERY STRONGLY EXPLODES IF IT IS NOT ENOUGH CRYOFLUID"
 size: 3
 hasPower: true
 hasItems: true
@@ -24,4 +22,4 @@ hydrogen/70
 thorium/90
 ]
 category: power
-research: Hydrogen-accumulator
+research: hydrogen-accumulator

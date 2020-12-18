@@ -1,12 +1,10 @@
 type: SolarGenerator
-name: Olivine solar panel(Level 1)
-description: Produces clean solar energy
 size: 1
 health: 51
 powerProduction: 0.65
 requirements: [
 monocrystal/3
-Resestive-element/6
+resestive-element/6
 olivine/51
 ]
 category: power

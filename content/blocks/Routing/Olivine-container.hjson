@@ -1,5 +1,3 @@
-name: Electrum Vault
-description: Shocking way of storing items.
 type: StorageBlock
 itemCapacity: 4500
 hasItems: true

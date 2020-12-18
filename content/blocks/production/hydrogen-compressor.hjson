@@ -18,7 +18,7 @@ olivine/25
 thorium/25
 ],
 category: crafting
-research: olivine-combine
+research: olivine-farm
 idleSound: respawning
 idleSoundVolume: 0.5
 }
