@@ -1,6 +1,4 @@
 type:material
-name: "monocrystal"
-description: "Used to create solar panels."
 color: "8c9196"
 radioactivity: 0.0
 explosiveness:0.0
