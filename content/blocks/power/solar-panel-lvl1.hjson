@@ -4,7 +4,7 @@ health: 51
 powerProduction: 0.65
 requirements: [
 monocrystal/3
-resestive-element/6
+electrum/6
 olivine/51
 ]
 category: power

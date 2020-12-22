@@ -1,22 +1,23 @@
 type:GenericSmelter
-outputItem:monocrystal/3
+outputItem:electrum/2
 size:3
 hasPower:true
 hasItems:true
-craftTime:160
-updateEffect:steam
-itemCapacity:15
+craftTime:150
+itemCapacity:32
+updateEffect: none
+craftEffect: none
 consumes:{
-power:1
 items:{items:[
-olivine/3
-silicon/3
-metaglass/3
+copper/15
+sand/15
+silicon/15
 ]}}
 requirements:[
 copper/30
 lead/25
-olivine/19
+olivine/20
+coal/25
 ]
 category:crafting
 research:explotion-materials-factory

@@ -1,0 +1,9 @@
+name:"Водород"
+description:"Водород-самое распространённое химическое вещество во Вселенной, составляющее примерно 75% всей барионной массы ."
+temperature:0.01
+flammability: 0
+heatCapacity:0.0
+viscosity:0.0
+explosiveness:0
+effect:"boss"
+color:"D9EDFF"
