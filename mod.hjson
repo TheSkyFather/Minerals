@@ -3,5 +3,5 @@ name:"mineralmod"
 description:"[#463963]Explore minerals and mechanisms." 
 author:"[white]Sky[green]Father"
 version:"0.9.5"
-minGameVersion: 105
+minGameVersion: 115
 dependencies:[]
