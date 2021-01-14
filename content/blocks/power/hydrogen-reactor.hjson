@@ -9,9 +9,11 @@ itemCapacity: 30
 hasLiquids: true
 liquidCapacity: 20
 itemDuration: 180
+buildCostMultiplier: 0.5
+craftTime: 0.1
 powerProduction: 135
 consumes: {
-liquid: cryofluid/0.5
+liquid: cryofluid/0.085
 items:{
 items:[
 hydrogen/3

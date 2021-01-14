@@ -1,0 +1,16 @@
+type: SolarGenerator
+name: Солнечная панель третьего уровня
+description: Уже чувствуется разница в сравнении с вторым уровнемм. Имеет примерно такое же количество здоровья, но обладает большим коэффициентом выработки энергии. 
+size: 3
+health: 400
+powerProduction: 2
+requirements: [
+electrum/450
+silicon/300
+titanium/250
+metaglass/250
+plastanium/250
+olivine/250
+]
+category: power
+research: rtg-generator

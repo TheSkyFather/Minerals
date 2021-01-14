@@ -13,4 +13,5 @@ rotateSpeed: 4
 attribute: water
 consumes:{ 
 power: 0.5
-} 
+}
+research: water-extractor

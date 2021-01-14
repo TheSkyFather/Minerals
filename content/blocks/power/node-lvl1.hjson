@@ -1,0 +1,14 @@
+type: PowerNode
+health: 355
+category: power
+requirements:[
+electrum/45
+silicon/15
+copper/31
+olivine/31
+phase-fabric/12
+] 
+maxNodes: 23
+size: 3
+laserRange: 30
+research:diode

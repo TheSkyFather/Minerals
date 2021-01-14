@@ -1,0 +1,16 @@
+type:CoreBlock
+health:26000
+size:8
+itemCapacity:50000
+category:effect
+requirements:[
+olivine/4000
+copper/4000
+plastanium/4000
+metaglass/5000
+phase-fabric/4000
+hydrogen/100
+surge-alloy/1000
+]
+researchCostMultiplier:0.5
+research:core-nucleus

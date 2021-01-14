@@ -1,0 +1,32 @@
+type: PowerTurret
+targetAir: true
+targetGround: true
+health: 582
+size: 2
+reloadTime: 4
+inaccuracy: 2
+range: 150
+shootType:{
+type: LightningBulletType
+lightningColor: "#FFFACD"
+lightningRand: 2
+speed: 2
+lifetime: 50
+damage: 27
+ammoMultiplier: 500
+reloadMultiplier: 1
+recoilAmount: 2
+bulletWidth: 6
+bulletHeight: 9
+}
+category: turret
+heatColor: Color.red
+research: duo
+requirements:[
+copper/35
+electrum/40
+gunpowder/20
+copper/40
+silicon/40
+titanium/13
+]

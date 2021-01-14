@@ -5,7 +5,7 @@ hasPower: true,
 hasLiquids: true,
 hasItems: true,
 itemCapacity: 10,
-liquidCapacity:10
+liquidCapacity:10, 
 craftTime: 50,
 updateEffect: steam
 consumes:{

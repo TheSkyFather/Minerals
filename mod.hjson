@@ -1,7 +1,7 @@
-displayName: "[green]Minerals"
+displayName: "Minerals"
 name :"mineralmod"
-description: "[#463963]Explore minerals and mechanisms." 
-author:"[white]Sky[green]Father"
-version: "0.9.5" 
-minGameVersion: 115
+description: "Explore minerals and mechanisms." 
+author:"SkyFather"
+version: "0.9.5.4" 
+minGameVersion: 122
 dependencies:[]

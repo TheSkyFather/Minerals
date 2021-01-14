@@ -1,6 +1,9 @@
 type:Wall
 health:1467
 size:2
+insulated: true
+absorbLasers: true
+chanceDeflect: 15
 requirements:[
 olivine/50
 ]

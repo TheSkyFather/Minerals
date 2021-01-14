@@ -1,27 +1,29 @@
-{
 type: "Drill",
 size: 3,
 health: 1500,
 tier: 10,
-drillTime: 76,
+drillTime: 75,
 rotateSpeed: 6,
 updateEffect: "pulverizeRed"
 drillEffect: "healWaveMend"
-updateEffectChance: 0.06
+updateEffectChance: 0.03
+liquidBoostIntensity: 2
 consumes:{
-power:0.5
-liquid: cryofluid/0.5
+liquid:{
+liquid:"cryofluid"
+amount:0.05
+optional:true
+booster:true
 }
-optional: true,
-booster: true
+}
 requirements:[
 olivine/25
 thorium/150
 titanium/20
 hydrogen/150
-metaglass/20
-phase-fabric/10
+metaglass/40
+phase-fabric/30
+plastanium/50
 ]
 category: production
 research: hydrogen-accumulator
-}

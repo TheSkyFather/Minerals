@@ -1,0 +1,11 @@
+type: SolarGenerator
+size: 2
+health: 400
+powerProduction: 1.55
+requirements: [
+olivine/20
+electrum/100
+silicon/100
+]
+category: power
+research: solar-panel-lvl1

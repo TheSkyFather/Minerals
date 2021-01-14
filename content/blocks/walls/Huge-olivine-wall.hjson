@@ -1,6 +1,10 @@
 type:Wall
 health:4997
 size:4
+flashHit: true
+insulated: true
+absorbLasers: true
+chanceDeflect: 15
 requirements:[
 olivine/100
 titanium/50
