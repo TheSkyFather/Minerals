@@ -22,7 +22,8 @@ This mod adds:
 
 On cooperation issues write in private messages in:
 
--- VK: https://vk.com/theskyfather
--- Discord: TheSkyFather#7923
+--VK: https://vk.com/theskyfather
+
+--Discord: TheSkyFather#7923
 
 Later I'll add a tree of research and separate planet... 
