@@ -1,5 +1,5 @@
-# MineralMod 
-This mod will allow you to immerse yourself in the world of minerals and mechanisms. 
+# Minerals for Mindustry
+This mod will allow you to immerse yourself in the world of minerals and mbechanisms.
 This mod adds:
 
 -Drills.
@@ -8,14 +8,21 @@ This mod adds:
 
 -Conveyors.
 
--Reactors and solar panels. 
+-Reactors. 
 
--Accumulators
+-Solar panels. 
 
--Containers
+-Turrets. 
+
+-Accumulator. 
+
+-Containers. 
 
 -As well as basic routing items.
 
-On cooperation issues write in private messages in vk: 
-https://vk.com/theskyfather
+On cooperation issues write in private messages in:
+
+-- VK: https://vk.com/theskyfather
+-- Discord: TheSkyFather#7923
+
 Later I'll add a tree of research and separate planet... 
