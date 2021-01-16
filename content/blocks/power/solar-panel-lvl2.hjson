@@ -6,6 +6,7 @@ requirements: [
 olivine/20
 electrum/100
 silicon/100
+monocrystal/30
 ]
 category: power
 research: solar-panel-lvl1

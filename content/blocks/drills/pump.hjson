@@ -1,8 +1,8 @@
 type: SolidPump
 requirements:[
-olivine/100
-metaglass/100
-titanium/300
+olivine/400
+metaglass/400
+titanium/380
 ] 
 category: production
 result: water
@@ -12,6 +12,6 @@ liquidCapacity: 5
 rotateSpeed: 4
 attribute: water
 consumes:{ 
-power: 0.5
+power: 0.6
 }
 research: water-extractor

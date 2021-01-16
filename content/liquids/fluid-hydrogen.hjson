@@ -3,7 +3,7 @@ description:"Водород-самое распространённое хими
 temperature:0.0
 flammability: 0
 heatCapacity:0.0
-viscosity:0.1
+viscosity:0.2
 explosiveness:0
 effect:"boss"
 color:"D9EDFF"

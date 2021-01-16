@@ -1,8 +1,8 @@
 type:"Drill"
 size: 1
-health:70
-tier:2
-drillTime:1
+health:210
+tier:3
+drillTime:300
 itemCapacity:10
 rotateSpeed:3
 consumes:{

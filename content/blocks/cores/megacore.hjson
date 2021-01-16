@@ -1,5 +1,6 @@
 //type:CoreBlock
 health:26000
+details: Ну что? Какая там по счёту итерация? И что вообще за слово "итерация"? Кто его придумал? 
 size:8
 itemCapacity:50000
 category:effect
@@ -13,4 +14,4 @@ hydrogen/100
 surge-alloy/1000
 ]
 researchCostMultiplier:0.5
-research:core-nucleus
+research: oliCore

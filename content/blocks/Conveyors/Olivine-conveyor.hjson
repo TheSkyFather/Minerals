@@ -1,8 +1,8 @@
  type: Conveyor
  health: 69
 requirements:[
-olivine/2
-lead/2
+olivine/10
+lead/10
  ],
  speed: 0.19,
  research: titanium-conveyor

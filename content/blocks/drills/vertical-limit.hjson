@@ -1,12 +1,12 @@
-type: "Drill",
-size: 3,
-health: 1500,
-tier: 10,
-drillTime: 75,
-rotateSpeed: 6,
+type: "Drill"
+size: 3
+health: 1500
+tier: 10
+drillTime: 75
+rotateSpeed: 6
 updateEffect: "pulverizeRed"
 drillEffect: "healWaveMend"
-updateEffectChance: 0.03
+updateEffectChance: 0.1
 liquidBoostIntensity: 2
 consumes:{
 liquid:{

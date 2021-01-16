@@ -3,8 +3,6 @@ health:13000
 size:6
 details: Четвёртая, принудительная итерация! 
 itemCapacity:25623
-hasPower: true 
-powerCapacity: 1000
 category:effect
 requirements:[
 lead/2000
@@ -16,4 +14,5 @@ titanium/2000
 metaglass/2000
 surge-alloy/2000
 ]
-alwaysUnlocked:true
+alwaysUnlocked: false
+research: core-nucleus

@@ -23,10 +23,10 @@ category: turret
 heatColor: Color.red
 research: duo
 requirements:[
-copper/35
-electrum/40
-gunpowder/20
-copper/40
-silicon/40
-titanium/13
+copper/350
+electrum/400
+gunpowder/200
+copper/400
+silicon/400
+titanium/300
 ]

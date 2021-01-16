@@ -3,7 +3,7 @@ size: 3
 hasPower: true
 hasItems: true
 explosionDamage: 1000
-explosionRadius: 50
+explosionRadius: 25
 heating: 0.09
 itemCapacity: 30
 hasLiquids: true

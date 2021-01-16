@@ -8,7 +8,7 @@ copper/31
 olivine/31
 phase-fabric/12
 ] 
-maxNodes: 23
+maxNodes: 24
 size: 3
 laserRange: 30
 research:diode
