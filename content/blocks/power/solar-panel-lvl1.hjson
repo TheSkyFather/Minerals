@@ -1,7 +1,7 @@
 type: SolarGenerator
 size: 1
 health: 51
-powerProduction: 0.17
+powerProduction: 0.2
 requirements: [
 monocrystal/14
 electrum/10
