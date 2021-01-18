@@ -22,6 +22,7 @@ bulletHeight: 8
 shootSound: spark
 consumes:{
 power: 6
+} 
 category: turret
 heatColor: Color.red
 research: duo
