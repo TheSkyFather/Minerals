@@ -4,14 +4,12 @@ outputItem: hydrogen/3
 size: 2,
 hasPower: true,
 hasLiquid: true,
-liquidCapacity: 19,
-hasItems: true,
-itemCapacity: 12,
+liquidCapacity: 20
 craftTime: 60,
 updateEffect: smeltsmoke
 consumes:{
 liquid:water/0.5
-power:0.5
+power: 5
 },
 requirements:[
 olivine/25

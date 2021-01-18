@@ -5,6 +5,7 @@ metaglass/400
 titanium/380
 ] 
 category: production
+health: 310
 result: water
 pumpAmount: 0.75
 size: 2
@@ -12,6 +13,6 @@ liquidCapacity: 5
 rotateSpeed: 4
 attribute: water
 consumes:{ 
-power: 0.6
+power: 3
 }
 research: water-extractor

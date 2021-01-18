@@ -1,6 +1,6 @@
 type: "Drill"
 size: 3
-health: 1500
+health: 1260
 tier: 10
 drillTime: 75
 rotateSpeed: 6
@@ -11,7 +11,7 @@ liquidBoostIntensity: 2
 consumes:{
 liquid:{
 liquid:"cryofluid"
-amount:0.05
+amount:0.1
 optional:true
 booster:true
 }

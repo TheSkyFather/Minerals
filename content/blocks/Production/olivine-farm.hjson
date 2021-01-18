@@ -9,15 +9,15 @@ liquidCapacity:10,
 craftTime: 50,
 updateEffect: steam
 consumes:{
-   liquid:cryofluid/0.1
-   power:0.5 
+liquid:cryofluid/0.1
+power: 3 
 items:{items:[
-   metaglass/2
+metaglass/2
 ]}},
 requirements:[
-   copper/150 
-   titanium/100
-   lead/18
+copper/150 
+titanium/100
+lead/18
 ]
 category: crafting
 research: router

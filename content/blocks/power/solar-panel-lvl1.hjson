@@ -1,11 +1,11 @@
 type: SolarGenerator
 size: 1
 health: 51
-powerProduction: 0.65
+powerProduction: 0.17
 requirements: [
-monocrystal/3
-electrum/6
-olivine/51
+monocrystal/14
+electrum/10
+olivine/30
 ]
 category: power
 research: solar-panel
