@@ -6,7 +6,7 @@ size: 2
 reloadTime: 4
 inaccuracy: 2
 range: 150
-power: 6
+powerUse: 6
 shootType:{
 type: LightningBulletType
 lightningColor: "#a4ded0"
