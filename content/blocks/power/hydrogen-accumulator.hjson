@@ -8,7 +8,7 @@ powerBuffered: 23001
 category:power
 requirements:[
 lead/200
-hydrogen/159
+hydrogen-capsule/159
 titanium/130
 ]
 research: olivine-farm
