@@ -12,15 +12,17 @@ craftTime: 120
 size: 3
 hasLiquids: true
 hasPower: true
-hasItems: false
+hasItems: true
+itemCapacity:9
 liquidCapacity: 30
 rotate: false
 solid: true
 outputsLiquid: true
 drawer: DrawMixer
 consumes:{
-liquid: water/0.5
-liquid: cryofluid/0.3
+power:0.5
+liquid:water/0.5
+liquid:cryofluid/0.3
+items:{items:[
 metaglass/3
-power: 4.5
-}
+]}} 

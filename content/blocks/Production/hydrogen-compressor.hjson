@@ -1,16 +1,18 @@
 type: GenericSmelter
 outputItem: hydrogen-capsule/3
-size: 2,
-hasPower: true,
-hasLiquid: true,
+size: 3
+hasPower: true
+hasLiquid: true
+hasItems: true
+itemCapacity: 10
 liquidCapacity: 20
-craftTime: 60,
+craftTime: 60
 updateEffect: smeltsmoke
 consumes:{
 liquid: fluid-hydrogen/0.5
+items:{items:[
 metaglass/2
-power: 5
-}
+]}}
 requirements:[
 lead/60
 metaglass/180
