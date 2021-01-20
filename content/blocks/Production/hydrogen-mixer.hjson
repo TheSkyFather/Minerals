@@ -1,7 +1,7 @@
 type: LiquidConverter
-outputLiquid: fluid-hydrogen/0.5
+outputLiquid: fluid-hydrogen/0.3
 category: crafting
-research: hydrogen-compressor
+research: olivine-farm
 requirements:[
 lead/100
 metaglass/400
@@ -20,5 +20,7 @@ outputsLiquid: true
 drawer: DrawMixer
 consumes:{
 liquid: water/0.5
+liquid: cryofluid/0.3
+metaglass/3
 power: 4.5
 }

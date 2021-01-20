@@ -1,5 +1,5 @@
 type: GenericSmelter
-outputItem: hydrogen/3
+outputItem: hydrogen-capsule/3
 size: 2,
 hasPower: true,
 hasLiquid: true,
@@ -7,14 +7,16 @@ liquidCapacity: 20
 craftTime: 60,
 updateEffect: smeltsmoke
 consumes:{
-liquid:water/0.5
+liquid: fluid-hydrogen/0.5
+metaglass/2
 power: 5
-},
+}
 requirements:[
-olivine/25
+lead/60
+metaglass/180
 thorium/25
-],
+]
 category: crafting
-research: olivine-farm
+research: hydrogen-mixer
 idleSound: respawning
 idleSoundVolume: 0.5
