@@ -11,10 +11,9 @@ liquidCapacity: 20
 itemDuration: 180
 buildCostMultiplier: 0.5
 craftTime: 0.1
-powerProduction: 231
+powerProduction: 390
 consumes: {
 liquid: cryofluid/0.090
-power: 2
 items:{
 items:[
 hydrogen-capsule/3
