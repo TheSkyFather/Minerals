@@ -3,5 +3,5 @@ name :"mineralmod"
 description: "Explore minerals and mechanisms." 
 author:"SkyFather"
 version: "0.9.6.1" 
-minGameVersion: 122.1
+minGameVersion: 123
 dependencies:[]
