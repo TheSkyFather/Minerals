@@ -20,6 +20,6 @@ solid: true
 outputsLiquid: true
 drawer: DrawMixer
 consumes:{
-liquid: water/0.01
+liquid: water/0.1
 power:7
 } 
