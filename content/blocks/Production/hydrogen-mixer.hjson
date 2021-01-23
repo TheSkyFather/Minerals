@@ -20,13 +20,6 @@ solid: true
 outputsLiquid: true
 drawer: DrawMixer
 consumes:{
-power:4
-liquid:{
-liquid:"cryofluid" 
-booster:true 
-optional: true
-amount: 0.3
+liquid: water/0.01
+power:7
 } 
-items:{items:[
-metaglass/3
-]}} 

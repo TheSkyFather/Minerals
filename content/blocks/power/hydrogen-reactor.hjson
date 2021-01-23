@@ -11,15 +11,12 @@ liquidCapacity: 20
 itemDuration: 180
 buildCostMultiplier: 0.5
 craftTime: 0.1
-powerProduction: 390
+powerProduction: 300
 consumes: {
 liquid: cryofluid/0.090
 items:{
 items:[
 hydrogen-capsule/3
-graphite/3
-lead/3
-coal/2
 ]}}, 
 requirements: [
 olivine/150
