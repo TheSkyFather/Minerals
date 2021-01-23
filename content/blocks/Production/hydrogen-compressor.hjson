@@ -9,6 +9,7 @@ liquidCapacity: 20
 craftTime: 60
 updateEffect: smeltsmoke
 consumes:{
+power: 2
 liquid: fluid-hydrogen/0.5
 items:{items:[
 metaglass/2

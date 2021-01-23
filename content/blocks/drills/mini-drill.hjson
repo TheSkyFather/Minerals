@@ -1,18 +1,23 @@
 type:"Drill"
-size: 1
-health:210
-tier:3
-drillTime:300
+size: 2
+health:310
+tier:5
+drillTime:105
 itemCapacity:10
-rotateSpeed:3
+rotateSpeed:8
 consumes:{
-power: 0.025
-}
+power: 0.1
+liquid:{
+liquid: cryofluid
+optional: true
+booster: true 
+amount: 0.1
+}} 
 requirements:[
-copper/12
-olivine/12
-metaglass/12
-phase-fabric/12
+copper/40
+olivine/40
+metaglass/40
+phase-fabric/40
 ]
 category:"production"
-research:mechanical-drill 
+research:mechanical-drill

@@ -21,6 +21,6 @@ lead/18
 ]
 category: crafting
 research: router
-buildCostMultiplier: 10
+buildCostMultiplier: 5
 idleSound: respawning
 idleSoundVolume: 0.5

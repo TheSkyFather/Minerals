@@ -1,5 +1,5 @@
 type:Wall
-health:1467
+health:3750
 size:2
 insulated: true
 absorbLasers: true

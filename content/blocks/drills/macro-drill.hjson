@@ -1,0 +1,18 @@
+type:"Drill"
+size: 1
+health:210
+tier:3
+drillTime:210
+itemCapacity:10
+rotateSpeed:4
+consumes:{
+power: 0.050
+}
+requirements:[
+copper/20
+olivine/20
+metaglass/20
+phase-fabric/20
+]
+category:"production"
+research:mechanical-drill

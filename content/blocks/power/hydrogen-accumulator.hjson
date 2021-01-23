@@ -3,12 +3,14 @@ size: 3
 hasPower:true
 buildCostMultiplier:0.675
 consumes:{
-powerBuffered: 23001
+powerBuffered: 75000
 }
+health: 560
 category:power
 requirements:[
 lead/200
 hydrogen-capsule/159
 titanium/130
+silicon/40
 ]
 research: olivine-farm
