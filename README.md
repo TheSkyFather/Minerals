@@ -1,4 +1,5 @@
 # Minerals for Mindustry
+# Mod was closed
 This mod will allow you to immerse yourself in the world of minerals and mbechanisms.
 This mod adds:
 
@@ -26,4 +27,5 @@ On cooperation issues write in private messages in:
 
 --Discord: TheSkyFather#7923
 
-Later I'll add a tree of research and separate planet... 
+Later I'll add a tree of research and separate planet...
+--Supported version of Mindustry is 123.1 or newest. 
