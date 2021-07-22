@@ -4,7 +4,7 @@ size: 3
 requirements:[
 metaglass/15
 olivine/20
-titanium/25
+titanium/20
 ]
 category: liquid
 hasLiquids: true

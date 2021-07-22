@@ -13,7 +13,7 @@ size: 3
 hasLiquids: true
 hasPower: true
 hasItems: true
-itemCapacity:9
+itemCapacity: 9
 liquidCapacity: 30
 rotate: false
 solid: true
@@ -21,5 +21,5 @@ outputsLiquid: true
 drawer: DrawMixer
 consumes:{
 liquid: water/0.1
-power:7
+power: 7
 } 

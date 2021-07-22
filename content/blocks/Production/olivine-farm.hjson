@@ -1,5 +1,5 @@
 type: GenericSmelter
-outputItem:olivine/3
+outputItem: olivine/3
 size: 2
 hasPower: true,
 hasLiquids: true,

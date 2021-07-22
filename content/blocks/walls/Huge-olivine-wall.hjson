@@ -1,6 +1,6 @@
-type:Wall
-health:6920
-size:4
+type: Wall
+health:6990
+size: 4
 flashHit: true
 insulated: true
 absorbLasers: true

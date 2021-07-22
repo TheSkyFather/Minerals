@@ -1,14 +1,15 @@
-type:GenericSmelter
-outputItem:monocrystal/3
-size:3
-hasPower:true
-hasItems:true
-craftTime:160
-updateEffect:steam
-itemCapacity:15
+type: GenericSmelter
+outputItem: monocrystal/3
+size: 3
+hasPower: true
+hasItems: true
+craftTime: 160
+updateEffect: steam
+itemCapacity: 15
 consumes:{
-power:1
-items:{items:[
+power: 1
+items:{
+items:[
 olivine/3
 silicon/3
 metaglass/3
@@ -16,7 +17,7 @@ metaglass/3
 requirements:[
 copper/30
 lead/25
-olivine/19
+olivine/20
 ]
-category:crafting
-research:explotion-materials-factory
+category: crafting
+research: explotion-materials-factory
