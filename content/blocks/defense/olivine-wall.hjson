@@ -1,8 +1,11 @@
 type: Wall
-health: 950
-size: 1
-requirements:[
-olivine/23
-]
-research: olivine-farm 
 category: defense
+
+size: 1
+health: 950
+
+requirements:[
+  olivine/8
+]
+
+research: olivine-farm 
