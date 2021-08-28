@@ -1,0 +1,14 @@
+type: StorageBlock
+category: effect
+
+health: 2100
+size: 3
+itemCapacity: 4450
+
+requirements: [
+  olivine/100
+  titanium/60
+  thorium/40
+]
+
+research: vault
