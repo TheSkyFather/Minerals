@@ -1,0 +1,13 @@
+type: Conveyor
+category: distribution
+
+health: 70
+speed: 0.19
+
+requirements:[
+  olivine/2
+  lead/3
+]
+
+research: titanium-conveyor
+ 
