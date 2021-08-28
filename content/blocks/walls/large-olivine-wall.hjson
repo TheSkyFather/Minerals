@@ -1,11 +1,12 @@
 type:Wall
-health:3775
-size:2
-insulated: true
-absorbLasers: true
-chanceDeflect: 15
-requirements:[
-olivine/50
-]
-Research: "Olivine-wall"
 category: defense
+
+size:2
+health:3775
+chanceDeflect: 18
+
+requirements:[
+  olivine/32
+]
+
+research: olivine-wall
