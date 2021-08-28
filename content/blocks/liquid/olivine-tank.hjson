@@ -1,0 +1,14 @@
+type: liquidTank
+category: liquid
+
+size: 3
+health: 1350
+liquidCapacity: 2200
+
+requirements: [
+  olivine/35
+  metaglass/40
+  titanium/15
+]
+
+research: router
