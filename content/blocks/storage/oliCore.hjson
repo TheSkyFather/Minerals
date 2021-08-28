@@ -1,0 +1,20 @@
+//type:CoreBlock
+category: effect
+
+size:6
+health:9850
+details: "Четвёртая, принудительная итерация!" 
+itemCapacity:25500
+
+requirements:[
+  lead/3000
+  copper/4000
+  olivine/1500
+  phase-fabric/1500
+  plastanium/2000
+  titanium/3500
+  metaglass/500
+  surge-alloy/1500
+]
+
+research: core-nucleus
