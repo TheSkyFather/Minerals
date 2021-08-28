@@ -1,17 +1,20 @@
 //type:CoreBlock
-health:26000
-details: Ну что? Какая там по счёту итерация? И что вообще за слово "итерация"? Кто его придумал? 
-size:8
-itemCapacity:50000
 category:effect
+
+size:8
+health:26000
+details: "Ну что? Какая там по счёту итерация? И что вообще за слово "итерация"? Кто его придумал?" 
+itemCapacity:35000
+
 requirements:[
-olivine/4000
-copper/4000
-plastanium/4000
-metaglass/5000
-phase-fabric/4000
-hydrogen-capsule/100
-surge-alloy/1001
+  olivine/2800
+  copper/6000
+  plastanium/3500
+  metaglass/1200
+  phase-fabric/1000
+  hydrogen-capsule/360
+  surge-alloy/3500
 ]
-researchCostMultiplier:0.5
+
 research: oliCore
+researchCostMultiplier:1.8
