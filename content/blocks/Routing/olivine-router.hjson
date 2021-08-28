@@ -1,8 +1,0 @@
-type: router
-research: router
-health: 79
-size: 1
-category: distribution
-requirements:[
-olivine/10
-]
