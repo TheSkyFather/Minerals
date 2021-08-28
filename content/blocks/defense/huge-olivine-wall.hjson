@@ -1,0 +1,14 @@
+type: Wall
+category:defense
+
+size: 4
+health:6990
+flashHit: true
+chanceDeflect: 18
+
+requirements:[
+  olivine/128
+  titanium/32
+]
+
+research: large-olivine-wall
