@@ -1,11 +1,13 @@
+/*
 category:effect
 
 size:8
 health: 22450
-details: "Ну что? Какая там по счёту итерация? И что вообще за слово "итерация"? Кто его придумал?" 
-itemCapacity: 35000
+details: "Ну что? Какая там по счёту итерация? И что вообще за слово итерация? Кто его придумал?" 
+itemCapacity: 28550
+unitCapModifier = 16;
 
-requirements:[
+requirements: [
   olivine/2800
   copper/6000
   plastanium/3500
@@ -17,3 +19,4 @@ requirements:[
 
 research: oliCore
 researchCostMultiplier: 1.8
+*/
