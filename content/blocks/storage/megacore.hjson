@@ -1,10 +1,9 @@
-//type:CoreBlock
 category:effect
 
 size:8
-health:26000
+health: 22450
 details: "Ну что? Какая там по счёту итерация? И что вообще за слово "итерация"? Кто его придумал?" 
-itemCapacity:35000
+itemCapacity: 35000
 
 requirements:[
   olivine/2800
@@ -17,4 +16,4 @@ requirements:[
 ]
 
 research: oliCore
-researchCostMultiplier:1.8
+researchCostMultiplier: 1.8
