@@ -1,0 +1,15 @@
+type: PowerNode
+category: power
+
+size: 3
+health: 355
+maxNodes: 32
+laserRange: 29
+
+requirements:[
+  electrum/45
+  titanium/30
+  silicon/12 
+] 
+
+research:diode

@@ -1,0 +1,33 @@
+type: GenericSmelter
+category: crafting
+
+size: 2
+hasPower: true
+hasLiquids: true
+itemCapacity: 20
+liquidCapacity:15
+ 
+craftTime: 180
+outputItem: olivine/3
+updateEffect: steam
+idleSound: respawning
+idleSoundVolume: 0.5
+
+requirements:[
+  copper/180
+  silicon/100
+  lead/70
+]
+
+consumes:{
+  liquid:water/0.12
+  power: 2.78
+  items:{
+    items:[
+      metaglass/2
+    ]
+  }
+}
+
+research: router
+buildCostMultiplier: 5

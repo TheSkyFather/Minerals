@@ -1,0 +1,30 @@
+type: Drill
+category: production
+
+size: 3
+health: 1260
+tier: 10
+drillTime: 75
+rotateSpeed: 6
+updateEffect: pulverizeRed
+drillEffect: healWaveMend
+updateEffectChance: 0.1
+liquidBoostIntensity: 2
+
+requirements:[
+  hydrogen-capsule/120
+  titanium/90
+  metaglass/50
+]
+
+consumes:{
+  power: 3.5
+  liquid:{
+    liquid: cryofluid
+    amount:0.09
+    optional:true
+    booster:true
+  }
+}
+
+research: hydrogen-accumulator

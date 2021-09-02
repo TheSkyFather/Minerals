@@ -1,0 +1,22 @@
+type: SolidPump
+category: production
+
+size: 2
+health: 345
+result: water
+pumpAmount: 0.76
+liquidCapacity: 12
+rotateSpeed: 4
+attribute: water
+
+requirements:[
+  olivine/220
+  metaglass/170
+  graphite/145
+] 
+
+consumes:{ 
+  power: 4.9
+}
+
+research: water-extractor
